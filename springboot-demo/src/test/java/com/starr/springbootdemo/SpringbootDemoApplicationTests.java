@@ -1,4 +1,4 @@
-package com.model;
+package com.starr.springbootdemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

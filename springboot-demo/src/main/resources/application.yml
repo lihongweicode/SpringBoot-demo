@@ -1,0 +1,10 @@
+management:
+  server:
+    port: 9001
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        heath:
+          enabled: true
+
